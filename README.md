@@ -1,8 +1,8 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Machocho! 👋
 
 I'm a data scientist based in **East Africa**, going deep on **NLP, LLMs, and machine learning** — with a particular focus on applying these tools to qualitative data and African datasets that are often overlooked.
 
-I picked up data science in 2020, and I'm now fully committed to building real expertise and solving problems that matter in this part of the world.
+I picked up data science a while back, and I'm now fully committed to building real expertise and solving problems that matter in this part of the world.
 
 ---
 
